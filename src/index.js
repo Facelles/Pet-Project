@@ -1,8 +1,5 @@
-alert('Hello World!');
-
-
-
-
+var data = confirm('All is good? yeah? fucking kid???');
+console.log(data);
 
 
 
