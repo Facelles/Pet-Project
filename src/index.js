@@ -1,5 +1,9 @@
 var data = confirm('All is good? yeah? fucking kid???');
-console.log(data);
+if(data){
+    alert('I love tea! And i stole your tea muheheheh! ');
+}else{
+    console.log("Lalalalalalalalallalalalalallalalalalallal your location 423,456.98,11"); // this joke )=
+}
 
 
 
